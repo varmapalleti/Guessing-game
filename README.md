@@ -15,5 +15,4 @@ This project demonstrates low-level networking, basic HTTP request handling, and
 
 ---
 
-## 📁 File Structure
 
